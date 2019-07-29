@@ -2,3 +2,4 @@
 - functional testing
 - non-functional testing
 - **Regression testing**
+- salih added
