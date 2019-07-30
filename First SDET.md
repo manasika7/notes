@@ -29,14 +29,21 @@
 # Fronend Development Foundation
 - HTML: data on website
 - CSS: color shape
-# Seleniu :
+# Selenium
 - Automation Tool
 - Interacting with Web Ap;plication
 - Most popular
 - Framework
 # Database - SQL
 - managing Data
-- Relational Database Mab
+- Relational Database Management
+# API Testing
+- Checking data to determine correct properities
+# Mobilke Testing
+# Java Script
+# Protractor
+- Java Script Testing 
+- Angular and angular JS Applications
 
 
 
