@@ -39,7 +39,7 @@
 - Relational Database Management
 # API Testing
 - Checking data to determine correct properities
-# Mobilke Testing
+# Mobile Testing
 # Java Script
 # Protractor
 - Java Script Testing 
