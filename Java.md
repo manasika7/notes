@@ -3,8 +3,11 @@
 
 ## chapter 1
 
-**Java**: computer programming language, it's object oriented.
-**JVM**: stands for java virtual machine, used for running a java program
+- **Java**: computer programming language, it's object oriented.
+- **JVM**: stands for java virtual machine, used for running a java program
+
+
+
 JRE: stands for Java Runtime Environment
 contains necessary artifacts to run your java program.  all class 
 libraries and jar files are contained in JRE.
